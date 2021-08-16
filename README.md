@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Chanaka Karunarathne.
-- 👀 I’m a Software Engineer.
-- 📫 For more details visit my [website](https://kmchmk.github.io/).
+- 🔎 For more details [search me on Google](https://www.google.com/search?q=kmchmk).
 
 <!---
 kmchmk1026/kmchmk1026 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
